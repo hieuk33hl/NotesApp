@@ -1,4 +1,4 @@
-# EasyTutoNotes
+# NotesApp
 
 Simple notes app using Realm Database
 - Add notes
